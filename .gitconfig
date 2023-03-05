@@ -1,0 +1,16 @@
+[user]
+	name = My Name
+	email = accout@example.com
+[credential]
+	helper = manager
+[core]
+	autocrlf = input
+	quotepath = false
+[color]
+  ui = false
+  branch = false
+  diff = false
+  interactive = false
+  status = false
+  log = false
+
